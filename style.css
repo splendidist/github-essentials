@@ -4,8 +4,8 @@
 }
 
 .hero {
-  height: 500px;
-  background-color: pink;
+  height: 100vh;
+  background-color: black;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -13,4 +13,9 @@
 
 h1 {
   color: white;
+  font-size: 40px;
+}
+
+h1:hover {
+  color: red;
 }
